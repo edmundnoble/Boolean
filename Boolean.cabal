@@ -33,5 +33,3 @@ Library
                        Data.Boolean.Overload
                        Data.Boolean.Numbers
   ghc-options:         -Wall
-
---  ghc-prof-options:    -prof -auto-all 
